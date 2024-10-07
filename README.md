@@ -1,7 +1,7 @@
 # image_processing
 
 Description.
-The package image_processing is used to: <br>
+The package image_processing_lfrossinhole is used to: <br>
 -	Processing: <br>
 		- Histogram matching  <br>
 		- Structural similarity <br>
@@ -15,10 +15,10 @@ The package image_processing is used to: <br>
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing_lfrossinhole
 
 ```bash
-pip install image_processing
+pip install image_processing_lfrossinhole
 ```
 
 ## Author
